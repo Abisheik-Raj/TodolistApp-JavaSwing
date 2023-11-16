@@ -1,5 +1,5 @@
 # TodolistApp-JavaSwing
-This is a Java Swing-based ToDoList application with a robust user authentication system. Users can create an account, log in securely, and manage their tasks seamlessly. The application also features an email integration to send task details to the specified email address. Additionally, there is an OTP system for enhanced security.
+This is a Java Swing-based ToDoList application with a robust user authentication system. Users can create an account, log in securely, and manage their tasks seamlessly. The application also features an email integration to send task details to the specified email address. Additionally, there is an OTP system for enhanced security.Uses MySQL for data storage and retrieval.
 
 Features:
 User Authentication: Secure login and signup system to manage user accounts.
@@ -12,3 +12,4 @@ Technologies Used:
 Java
 Java Swing
 JavaMail API for email integration
+MySQL for data storage and retrieval.
